@@ -30,6 +30,7 @@ body{
     display: flex;
     flex-direction: column;
     font-size: 8px;
+    font-family: "Roboto", sans-serif;
     justify-content: center;
     align-items: center;
     margin-right: auto;
@@ -56,6 +57,7 @@ body{
 }
 .post-body p{
     margin: 12px 0;
+    font-family: "Roboto", sans-serif;
 }
 
 
